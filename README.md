@@ -1,2 +1,5 @@
 # 10Print
-10 Print Challenge on Coding Traint
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+My own version of the 10 Print Challenge from [the Coding Train](https://www.youtube.com/user/shiffman)
+[Imgur](https://i.imgur.com/9FRWDhJ.png)
